@@ -10,4 +10,6 @@ public class Sales {
 
     //10 % off
 
+    //7% off
+
 }
