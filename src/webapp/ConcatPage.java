@@ -7,5 +7,6 @@ public class ConcatPage {
     //instagram
     //YouTube
     //email
+    //phone
 
 }
